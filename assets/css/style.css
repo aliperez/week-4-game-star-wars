@@ -1,0 +1,91 @@
+#container{
+    margin: 40px;
+}
+
+h1{
+    text-align: center;
+    font-size: 24px;
+}
+
+#images{
+    width: 800px;
+    margin: 0 auto;
+}
+
+#box1, #box2, #box3, #box4{
+    width: 160px;
+    float: left;
+    background: lightgrey;
+    margin: 20px;
+    height: 120x;
+    border: 2px solid black;
+}
+
+#char1, #char2, #char3, #char4{
+    width: 100px;
+    height: 55px;
+    padding: 0;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+h2{
+    font-size: 14px;
+    text-align: center;
+    padding: 3px;
+    margin: 0;
+}
+
+h3{
+    font-size: 18px;
+    text-align: center;
+    padding: 0;
+    margin: 0;
+    font-weight: bold;
+}
+
+h4{
+    clear: both;
+}
+
+#new{
+    position: fixed;
+    left: 80px;
+    top: 180px;
+}
+
+#charBox{
+    padding: 30px;
+    background: lightgreen;
+    border: 3px solid green;
+    width: 180px;
+    height: 150px;
+    margin: 20px;
+}
+
+#enemyBox{
+    padding: 30px;
+    background: lightpink;
+    border: 3px solid red;
+    width: 530px;
+    height: 150px;
+    margin: 20px;
+}
+
+#newAgain{
+    position: fixed;
+    left: 80px;
+    top: 415px;
+}
+
+#newAgain2{
+    position: fixed;
+    left: 280px;
+    top: 415px;
+}
+
+#newAgain3{
+    position: fixed;
+    left: 480px;
+    top: 415px;
+}
